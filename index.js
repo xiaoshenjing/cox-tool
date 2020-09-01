@@ -1,5 +1,3 @@
-import RfAimFile from "./tools/rfAimFile";
+const RfAimFile = require("./tools/rfAimFile");
 
-export default {
-  RfAimFile,
-};
+module.exports = RfAimFile;

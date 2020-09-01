@@ -20,4 +20,4 @@ const rfAimFile = (rootPath, regLab) => {
   loop(rootPath);
 };
 
-export default rfAimFile;
+module.exports = rfAimFile;

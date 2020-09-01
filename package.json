@@ -1,0 +1,18 @@
+{
+  "name": "cox-tool",
+  "version": "1.0.0",
+  "description": "all kinds of js tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fix": "eslint --fix --ext .js ."
+  },
+  "author": "xiaoshenjing",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1"
+  }
+}
